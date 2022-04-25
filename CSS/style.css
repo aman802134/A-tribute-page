@@ -59,11 +59,11 @@
     padding-top: 10px;
 }
 
+/* here from info section style is added */
 #tribute-info
 {
     display: block;
 }
-/* here from info section style is added */
 #info-heading
 {
     text-align: center;
@@ -72,12 +72,12 @@
     font-style: italic;
     letter-spacing: 1px;
 }
-article
+.detail-info 
 {
     padding: 20px 160px;
     text-align: justify;
 }
-article> .para-1,.para-2,.para-3
+.detail-info > .para-1,.para-2,.para-3
 {
     font-size: 15px;
     font-family: monospace;

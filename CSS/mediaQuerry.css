@@ -1,0 +1,30 @@
+/* main content responsive */
+@media screen and (max-width:700px) {
+    .responsive-info
+    {
+        padding: 30px 0;
+    }
+    
+}
+/* image responsivness */
+@media screen and (max-width:300px) {
+    #img-div img
+    {
+        width: 200px;
+        height: auto;
+    }
+    
+}
+/* fonts changing according to the screen */
+@media screen and (max-width:300px) {
+    #info-heading
+    {
+        font-size: 1.5rem;
+    }
+    blockquote>p
+    {
+        font-size: 1rem;
+    }
+    
+    
+}
